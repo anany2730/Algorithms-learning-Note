@@ -7,13 +7,13 @@
 ## 目录
 
 * 顺序表(数组)
-    * 顺序栈 
-    * 顺序队列 
+    * [顺序栈](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Stack/array_stack.c) √
+    * [顺序队列](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Stack/array_queue.c) √
 * 链表
-    * 单链表  
-    * 双向链表  
-    * 链式栈  
-    * 链式队列  
+    * [单链表](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Linked%20List/single_linklist.c) √  
+    * [双向链表](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Linked%20List/double_linklist.c) √  
+    * [链式栈](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Stack/link_stack.c) √  
+    * [链式队列](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Queue/link_queue.c) √  
 * 哈希表
     * 散列函数
     * 碰撞解决
