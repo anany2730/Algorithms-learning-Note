@@ -15,9 +15,6 @@
     * [双向链表](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Linked%20List/double_linklist.c) √  
     * [链式栈](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Stack/link_stack.c) √  
     * [链式队列](https://github.com/zhujun2730/Algorithms-learning-Note/blob/master/Queue/link_queue.c) √  
-* 哈希表
-    * 散列函数
-    * 碰撞解决
 * 树  
     * 二叉树
     * 红黑树
